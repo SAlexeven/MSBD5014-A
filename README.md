@@ -6,7 +6,7 @@ The main objective is to develop a model for predicting future stock market pric
 ### File structure
 The files in the folder "Data Crawling" are to crawl stock price data & financial news data.  
 The files in the folder "Models" are stock prediction LSTM model and proposed CNN-framework model.  
-The files in the folder "Preprocessing" are to preprocess data before throw them into models, including vector generation and dala alignment. 
+The files in the folder "Preprocessing" are to preprocess data before throwing them into models, including vector generation and dala alignment. 
 
 ### Reference
 The proposed model is inspired from this [paper](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/view/11031/10986).
